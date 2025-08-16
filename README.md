@@ -72,5 +72,5 @@ Here are a few highlighted repositories:
 ---
 
 
-> © 2025 Vikas Raj B N — Built with ❤️ and Markdown.
+> © 2025 Vikas Raj B N
 
